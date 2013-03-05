@@ -37,7 +37,7 @@ GEM
     haml_assets (0.2.1)
       haml
       tilt
-    handlebars-amd-rails (1.0.0.rc.3)
+    handlebars-amd-rails (1.0.0)
       execjs
       rails (> 3.1.0)
       tilt
@@ -103,7 +103,7 @@ PLATFORMS
 
 DEPENDENCIES
   haml_assets
-  handlebars-amd-rails (~> 1.0.0.rc.3)
+  handlebars-amd-rails (~> 1.0.0)
   jquery-rails
   rails (= 3.2.11)
   requirejs-rails (~> 0.9.1)

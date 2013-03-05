@@ -1,7 +1,6 @@
 require([
     'jquery',
-    'template!demo/index',
-    'partial!shared/_header'
+    'template!demo/index'
 ], function ($, template) {
 
     'use strict';

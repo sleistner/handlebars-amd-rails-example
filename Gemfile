@@ -10,7 +10,7 @@ gem 'sqlite3'
 group :assets do
   gem 'jquery-rails'
   gem 'requirejs-rails',      '~> 0.9.1'
-  gem 'handlebars-amd-rails', '~> 1.0.0.rc.3'
+  gem 'handlebars-amd-rails', '~> 1.0.0'
   gem 'haml_assets'
 
   gem 'uglifier', '>= 1.0.3'
